@@ -26,7 +26,7 @@ public class TestController extends Resources{
 
 	@BeforeClass
 	public void initBrowser() throws IOException {
-		Initialize();
+		
 	}
 
 	@Test
